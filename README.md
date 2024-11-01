@@ -34,24 +34,24 @@ KindNodes/
 │   │   ├── pricing.css
 │   └── js/
 │       └── main.js
-└── index.html
+└── index.html```
 
 ## Getting Started
 To Run this project locally
 1. Clone the repositry
-```git clone https://github.com/ArnavBarway/KindNodes.git```
+```bash git clone https://github.com/ArnavBarway/KindNodes.git```
 2. Navigate to the project directory
-```cd KindNodes```
+```bash cd KindNodes```
 3. Open index.html in your web browser to start using the platform
 
 ## Contributing 
 1. Fork the repository.
 2. Create a new branch:
-```git checkout -b feature-branch``
+```bash git checkout -b feature-branch``
 3. Commit your changes:
-```git commit -m "Add new feature"```
+```bash git commit -m "Add new feature"```
 4. Push to the branch:
-```git push origin feature-branch```
+```bash git push origin feature-branch```
 5. Open a pull request.
 
 ## License 
@@ -59,5 +59,4 @@ This Project is licensed under the MIT License.
 
 ## Contact
 For questions or support, please contact me at playnav.yt@gmail.com
-```
-This version includes everything from the `Getting Started` section. Let me know if you need further changes!```
+```This version includes everything from the `Getting Started` section. Let me know if you need further changes!```
