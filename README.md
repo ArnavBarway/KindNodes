@@ -46,22 +46,32 @@ To Run this project locally
 git clone https://github.com/ArnavBarway/KindNodes.git
 ```
 3. Navigate to the project directory
-```bash cd KindNodes```
-4. Open index.html in your web browser to start using the platform
+```bash
+cd KindNodes
+```
+5. Open index.html in your web browser to start using the platform
 
 ## Contributing 
 1. Fork the repository.
 2. Create a new branch:
-```bash git checkout -b feature-branch``
-3. Commit your changes:
-```bash git commit -m "Add new feature"```
-4. Push to the branch:
-```bash git push origin feature-branch```
-5. Open a pull request.
+```bash
+git checkout -b feature-branch
+```
+4. Commit your changes:
+```bash
+git commit -m "Add new feature"
+```
+6. Push to the branch:
+```bash
+git push origin feature-branch
+```
+8. Open a pull request.
 
 ## License 
 This Project is licensed under the MIT License.
 
 ## Contact
 For questions or support, please contact me at playnav.yt@gmail.com
-```This version includes everything from the `Getting Started` section. Let me know if you need further changes!```
+```plaintext 
+This version includes everything from the `Getting Started` section. Let me know if you need further changes!
+```
