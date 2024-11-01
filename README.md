@@ -1,4 +1,5 @@
-## View the project on https://kind-nodes.vercel.app
+
+## View the project on [https://kind-nodes.vercel.app](https://kind-nodes.vercel.app)
 
 # KindNodes
 
@@ -34,7 +35,9 @@ KindNodes/
 │   │   ├── pricing.css
 │   └── js/
 │       └── main.js
-└── index.html```
+└── index.html
+```
+
 
 ## Getting Started
 To Run this project locally
