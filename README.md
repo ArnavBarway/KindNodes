@@ -42,10 +42,12 @@ KindNodes/
 ## Getting Started
 To Run this project locally
 1. Clone the repositry
-```bash git clone https://github.com/ArnavBarway/KindNodes.git```
-2. Navigate to the project directory
+```bash
+git clone https://github.com/ArnavBarway/KindNodes.git
+```
+3. Navigate to the project directory
 ```bash cd KindNodes```
-3. Open index.html in your web browser to start using the platform
+4. Open index.html in your web browser to start using the platform
 
 ## Contributing 
 1. Fork the repository.
